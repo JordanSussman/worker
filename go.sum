@@ -123,6 +123,8 @@ github.com/go-vela/pkg-executor v0.4.4-0.20200618064616-951f98786f8e h1:zO9OXc6C
 github.com/go-vela/pkg-executor v0.4.4-0.20200618064616-951f98786f8e/go.mod h1:ZUfEQ7vAd8zt3PeCNqmXHiR+eY7WmQnaVNM52rSGuJQ=
 github.com/go-vela/pkg-executor v0.4.4-0.20200618064959-e25a13aa5791 h1:Wk5mdt/q5fD6JlQvNT0sqRsltJW7Z1y4iFgGAp63YBI=
 github.com/go-vela/pkg-executor v0.4.4-0.20200618064959-e25a13aa5791/go.mod h1:fkOJlr7R4iXGLe13MXgpo/E3vRIxlLIKbMVVkNMZZwU=
+github.com/go-vela/pkg-executor v0.4.4-0.20200618065605-25841f798158 h1:SvhoFdqvxIV/7SyDykIYUs0KAvpZbyVMAJVFIhhG2sU=
+github.com/go-vela/pkg-executor v0.4.4-0.20200618065605-25841f798158/go.mod h1:xZdmsXsa26USPLMmcD/Otx0P1wOi+RpLV60BzEwxBrc=
 github.com/go-vela/pkg-queue v0.4.3 h1:GsyL/OG0Dket7V2hovebHFAwLqYvqycTIpwFJMSz1PQ=
 github.com/go-vela/pkg-queue v0.4.3/go.mod h1:FC1cSRFEK2vpOaZlQ8kUVDLFczMAwwid6r6EqJ6tB7w=
 github.com/go-vela/pkg-runtime v0.4.3 h1:BcBTNv41A0PSDIKlxHSzRuCLuNUSZPl3LYRSxKrN9GY=
@@ -143,6 +145,8 @@ github.com/go-vela/types v0.4.4-0.20200618064542-ef659a1b848e h1:8G3NBWcrKN0ewbw
 github.com/go-vela/types v0.4.4-0.20200618064542-ef659a1b848e/go.mod h1:ig7fC+MKGsgAlKqovkFsUQlbZtLDLhl/djiedHmsL5s=
 github.com/go-vela/types v0.4.4-0.20200618064928-507a4f417705 h1:6QjPpIYgkAnybD+TcC6QGamUKST09bqmrEUf+MXlHlA=
 github.com/go-vela/types v0.4.4-0.20200618064928-507a4f417705/go.mod h1:ig7fC+MKGsgAlKqovkFsUQlbZtLDLhl/djiedHmsL5s=
+github.com/go-vela/types v0.4.4-0.20200618065530-4eb31be75cff h1:7W3L9zsAXHobnfX+iMBxm0W2AEU80GLurarBEHyq0ws=
+github.com/go-vela/types v0.4.4-0.20200618065530-4eb31be75cff/go.mod h1:ig7fC+MKGsgAlKqovkFsUQlbZtLDLhl/djiedHmsL5s=
 github.com/gogo/protobuf v1.1.1 h1:72R+M5VuhED/KujmZVcIquuo8mBgX4oVda//DQb3PXo=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d/go.mod h1:SlYgWuQ5SjCEi6WLHjHCa1yvBfUnHcTbrrZtXPKa29o=
